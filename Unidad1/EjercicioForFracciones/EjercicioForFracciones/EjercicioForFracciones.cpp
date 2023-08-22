@@ -1,4 +1,4 @@
-// EjercicioForFracciones.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// EjercicioForFracciones.cpp : Ejercicio soble el uso de for anidados
 //
 
 #include <stdio.h>

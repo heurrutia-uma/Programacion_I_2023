@@ -8,7 +8,7 @@ int main()
 	int n, i = 0;
 	int primero = 0, segundo = 1, siguiente;
 
-	printf("Ingrese la cantidad de terminos de la secuencia de Fibonacii: ");
+	printf("Ingrese la cantidad de terminos de la secuencia de Fibonacii a obtener: ");
 	scanf_s("%d", &n);
 
 	while (i < n)
